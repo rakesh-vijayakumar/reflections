@@ -1,0 +1,2 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+If the version code is clean and good working code then newly added lines in the second version might be a source for the bug and reduces our time to go through whole code. 
