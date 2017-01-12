@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates .git and this makes git repository
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	In git, there are three directories git, staging and working. Let's say you have two files in the working dir and they are not linked with eachother. In other VCS we have to commit all files in the dir but in the git we can specify which files to be committed. This is why git introduced staging area. we add files which are not linked to the staging area and then commit independently.
